@@ -102,4 +102,4 @@ The dataset used in this project comes from the **World Happiness Report**, whic
 To improve readability and clarity, **each visualization in the notebooks is followed by a short interpretation explaining the key insights derived from the graph.**
 
 
-
+ 
